@@ -1,0 +1,1 @@
+# Simple-Credit-Approval-Model-using-Decision-Tree-inAzure-Machine-Learning
